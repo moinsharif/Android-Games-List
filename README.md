@@ -7,3 +7,4 @@ You can find Android-Games related repository here
 * [Game of Life](https://github.com/zsoltk/GameOfLife) - An Android implementation of Conway's Game of Life, focusing on clean design and implementation
 * [Memory Game](https://github.com/sromku/memory-game) - Simple and beautiful memory game for kids
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional rogue-like game with pixel-art graphics and simple interface
+* [Gidi Games](https://github.com/victordibia/GidiGames) - A collection of 3 board games done with cocos2d for android. Lexis, TicTacToe, Puzzlemania . Gives basic direction on the use of the cocos2d for android engine.
