@@ -13,6 +13,7 @@ You can find Android-Games related repository here
 * [Android-Jigsaw-Puzzle](https://github.com/julesbond007/android-jigsaw-puzzle) - Like to draw? Like to solve jigsaw puzzles? Try JigDraw!
 * [android-chess](https://github.com/jcarolus/android-chess) - Chess game for Android
 * [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
+* [Reversi](https://github.com/laserwave/reversi) - Reversi Game
 * [Asobimasu](https://github.com/DipanshKhandelwal/Asobimasu) - Games for android
 * [Collection of 2D android games](https://github.com/naveed-ahmad/Android-Game-Pack) - Collection of 2D android games
 * [More Games](https://github.com/kishordgupta/games) - LibGdx Game Projects
