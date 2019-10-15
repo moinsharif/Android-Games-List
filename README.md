@@ -11,6 +11,8 @@ You can find Android-Games related repository here
 * [CardGames](https://github.com/otasyn/CardGames) - Multiplayer card games for Android
 * [Brick Game](https://github.com/TobiasBielefeld/Simple-Brick-Games) - This game imitates the good old low cost handhelds
 * [Android-Jigsaw-Puzzle](https://github.com/julesbond007/android-jigsaw-puzzle) - Like to draw? Like to solve jigsaw puzzles? Try JigDraw!
+* [TicTakToe](https://github.com/lucky-119/TicTakToeApp) - TicTakToeApp
+* [TicTacToe-MVVM](https://github.com/husaynhakeem/TicTacToe-MVVM) - TicTacToe-MVVM
 * [Chess](https://github.com/DipanshKhandelwal/Chess) - A simple 2 player Chess Game for Android
 * [android-chess](https://github.com/jcarolus/android-chess) - Chess game for Android
 * [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
