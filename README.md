@@ -11,6 +11,8 @@ You can find Android-Games related repository here
 * [CardGames](https://github.com/otasyn/CardGames) - Multiplayer card games for Android
 * [Brick Game](https://github.com/TobiasBielefeld/Simple-Brick-Games) - This game imitates the good old low cost handhelds
 * [Android-Jigsaw-Puzzle](https://github.com/julesbond007/android-jigsaw-puzzle) - Like to draw? Like to solve jigsaw puzzles? Try JigDraw!
+* [GamePlane](https://github.com/iSpring/GamePlane) - GamePlane
+* [FunGameRefreshView](https://github.com/Hitomis/FunGameRefresh) - FunGameRefreshView
 * [TicTakToe](https://github.com/lucky-119/TicTakToeApp) - TicTakToeApp
 * [TicTacToe-MVVM](https://github.com/husaynhakeem/TicTacToe-MVVM) - TicTacToe-MVVM
 * [Android-TIcTacToe](https://github.com/IhorKlimov/Android-TicTacToe) - Android-TIcTacToe
